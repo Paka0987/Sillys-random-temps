@@ -1,4 +1,4 @@
-# ii's Stupid Template
+# Some random temps
 ii's Stupid Template is a mod menu template for Gorilla Tag with custom categories and the maximum amount of customization possible. This template is meant for more advanced users, so if you're a new menu creator, this could be difficult for you.
 
 ## Do I need permission to use this?
@@ -8,7 +8,7 @@ No, this template is free and public for anyone to use. You are welcome to utili
 
 # Installation
 
-- Download the source code from [here](https://github.com/usefull-creations/iiTemplate-Updated/releases/latest)
+- Download the source og code from [here](https://github.com/usefull-creations/iiTemplate-Updated/releases/latest)
 - Change your `<GamePath>` (Gorilla Tag directory) in `Directory.Build.props` if required
 - Change the menu name in `PluginInfo.cs`
 - Edit the menu visuals in `Menu/Settings.cs`
